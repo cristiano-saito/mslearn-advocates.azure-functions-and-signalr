@@ -15,3 +15,4 @@ app.http('open-signalr-connection', {
     route: 'negotiate',
     extraInputs: [inputSignalR]
 });
+
